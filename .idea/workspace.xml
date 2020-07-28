@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="instructor_tests" targetName="student_tests" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72aebdc0-1475-4ac4-85f1-c5ca25d37b41" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="463" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectId" id="1fJ20zthbAyiTrPyuj9Vgh6WERt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="CMake Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="instructor_tests" TARGET_NAME="student_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="instructor_tests" RUN_TARGET_NAME="student_tests">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="student_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="instructor_tests" TARGET_NAME="student_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="instructor_tests" RUN_TARGET_NAME="student_tests">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.student_tests" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72aebdc0-1475-4ac4-85f1-c5ca25d37b41" name="Default" comment="" />
+      <created>1512858344453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512858344453</updated>
+      <workItem from="1512858346832" duration="1456000" />
+      <workItem from="1512860523644" duration="1651000" />
+      <workItem from="1523184358020" duration="128000" />
+      <workItem from="1523196074561" duration="155000" />
+      <workItem from="1523198669183" duration="53000" />
+      <workItem from="1595921659583" duration="1319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="134" key="#Build_All" timestamp="1595922349650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="134" key="#Build_All/0.0.1536.824@0.0.1536.824" timestamp="1595922349650" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1595921660351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595921660351" />
+  </component>
+</project>

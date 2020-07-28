@@ -1,0 +1,4 @@
+C:/Users/fran_/Documents/C++ for Complete Beginners/P5/cmake-build-debug/CMakeFiles/student_tests.dir
+C:/Users/fran_/Documents/C++ for Complete Beginners/P5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/fran_/Documents/C++ for Complete Beginners/P5/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/fran_/Documents/C++ for Complete Beginners/P5/cmake-build-debug/CMakeFiles/edit_cache.dir
